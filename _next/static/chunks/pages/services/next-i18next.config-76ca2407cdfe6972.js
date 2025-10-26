@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[531],{7606:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/services/next-i18next.config",function(){return t(7979)}])},7979:function(n,u,t){"use strict";function e(){return null}t.r(u),t.d(u,{default:function(){return e}})}},function(n){n.O(0,[888,774,179],function(){return n(n.s=7606)}),_N_E=n.O()}]);
