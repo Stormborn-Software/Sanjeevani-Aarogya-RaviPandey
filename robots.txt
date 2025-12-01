@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.sanjeevaniaarogya.in/sitemap.xml
+Sitemap: http://localhost:3000/sitemap.xml
