@@ -24,7 +24,7 @@ const ServiceCard = ({
   return (
     <Link href={href} className="block group h-full">
       <div className="relative h-full rounded-lg overflow-hidden shadow-lg bg-white transition-shadow duration-300 hover:shadow-2xl">
-        <div className="relative h-56 w-full">
+        <div className="relative h-56 w-full overflow-hidden">
           <Image
             src={src}
             alt={displayTitle}
