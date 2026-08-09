@@ -19,11 +19,11 @@ const staticRoutes = [
 const serviceSlugs = [
   'vitiligo',
   'psoriasis',
-  'skinDisease',
-  'kneePain',
+  'skin-disease',
+  'knee-pain',
   'piles',
   'infertility',
-  'womenHealth',
+  'womens-health',
 ];
 
 const now = new Date().toISOString();
